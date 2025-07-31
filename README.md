@@ -18,7 +18,12 @@ You can play the game by running the .exe file.
 Download it here: 👉 [Sean Science Game exe zip](https://drive.google.com/file/d/1JO6i7lrUzBJAMKa5uodrRFUcYsJPSHjG/view?usp=sharing)
 
 ## Award 🏆
-We participated as competitors in Oral Proceedings - AUCC 2025 and won a Very Good award.
-Here are the certificates:
+We participated as competitors in Oral Proceedings - AUCC 2025 and received a Very Good award.
+Additionally, our project report was published in the conference proceedings.
 - Participation: [View PDF](./AUCC-Award-Certificate.pdf)
 - Competition: [View PDF](./AUCC-Award-Certificate.pdf)
+- Published Report: [View Publish Report](https://aucc2025.uru.ac.th/wp-content/uploads/2025/04/OralProceeding-AUCC2025_1.pdf)  and search Our proect name (In page 2491 or in PDF page menu 2533)
+
+## Docs 📚
+- [Manual](./Manual.pdf)
+- [Report](./Report.pdf)
